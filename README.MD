@@ -40,7 +40,7 @@ Wireless Pentesting: Wi-Fi network security testing.
 Internal Pentesting: Internal network security assessment.
 External Pentesting: Internet-facing infrastructure assessment.
 
-
+---
 
 ### 🛠️ Popular Pentesting Tools
 
@@ -55,7 +55,7 @@ Gobuster: Web content discovery.
 SQLmap: SQL injection assessment.
 Nessus: Vulnerability assessment.
 
-
+---
 
 ### ⚙️ Pentesting Methodology
 
@@ -68,7 +68,7 @@ Reporting: Document findings and evidence.
 Remediation: Recommend security improvements.
 Retesting: Verify implemented security fixes.
 
-
+---
 
 ### 🛡️ Core Security Areas
 
@@ -82,13 +82,22 @@ Retesting: Verify implemented security fixes.
 - Security Auditing
 - Risk Management
 
-
+---
 
 📚 Learning Resources
+
 - OWASP
 - PortSwigger Web Security Academy
 - TryHackMe
 - Hack The Box
 - NIST Cybersecurity
 
+---
 
+
+## 👨‍💻 About the Author
+
+| Information | Details |
+|---|---|
+| GitHub Username | [@ahnaf-hasan](https://github.com/ahnaf-hasan) |
+| GitHub Profile | [Visit Profile](https://github.com/ahnaf-hasan) |
